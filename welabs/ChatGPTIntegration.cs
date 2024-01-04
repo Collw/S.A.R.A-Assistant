@@ -10,7 +10,7 @@ namespace welabs
 
 public class ChatGPTIntegration
 {
-    private const string ChatGPTApiKey = "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";
+    private const string ChatGPTApiKey = "SuaAPIKey";
     private const string ChatGPTApiUrl = "https://api.openai.com/v1/chat/completions";
 
     public static async Task<string> ObterRespostaGPT(string mensagem)
