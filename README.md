@@ -101,5 +101,5 @@ A S.A.R.A é um poderoso aplicativo de assistente controlado por voz desenvolvid
 Sinta-se à vontade para contribuir para o projeto abrindo problemas, sugerindo melhorias ou enviando pull requests.
 
 ## Licença
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+Este projeto está licenciado sob a [welabs Software Company](LICENSE).
 
