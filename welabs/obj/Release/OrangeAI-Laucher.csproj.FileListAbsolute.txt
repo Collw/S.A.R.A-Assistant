@@ -1,0 +1,12 @@
+C:\Users\Usuário\source\repos\OrangeAI-Laucher\OrangeAI-Laucher\bin\Release\OrangeAI-Laucher.exe.config
+C:\Users\Usuário\source\repos\OrangeAI-Laucher\OrangeAI-Laucher\bin\Release\OrangeAI-Laucher.exe
+C:\Users\Usuário\source\repos\OrangeAI-Laucher\OrangeAI-Laucher\bin\Release\OrangeAI-Laucher.pdb
+C:\Users\Usuário\source\repos\OrangeAI-Laucher\OrangeAI-Laucher\obj\Release\OrangeAI-Laucher.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\OrangeAI-Laucher\OrangeAI-Laucher\obj\Release\OrangeAI-Laucher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuário\source\repos\OrangeAI-Laucher\OrangeAI-Laucher\obj\Release\OrangeAI_Laucher.frm.resources
+C:\Users\Usuário\source\repos\OrangeAI-Laucher\OrangeAI-Laucher\obj\Release\OrangeAI_Laucher.FrmMenu.resources
+C:\Users\Usuário\source\repos\OrangeAI-Laucher\OrangeAI-Laucher\obj\Release\OrangeAI_Laucher.Properties.Resources.resources
+C:\Users\Usuário\source\repos\OrangeAI-Laucher\OrangeAI-Laucher\obj\Release\OrangeAI-Laucher.csproj.GenerateResource.cache
+C:\Users\Usuário\source\repos\OrangeAI-Laucher\OrangeAI-Laucher\obj\Release\OrangeAI-Laucher.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\OrangeAI-Laucher\OrangeAI-Laucher\obj\Release\OrangeAI-Laucher.exe
+C:\Users\Usuário\source\repos\OrangeAI-Laucher\OrangeAI-Laucher\obj\Release\OrangeAI-Laucher.pdb
