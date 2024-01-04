@@ -49,7 +49,7 @@ S.A.R.A is a powerful speech-activated assistant application developed in C# for
 Feel free to contribute to the project by opening issues, suggesting improvements, or submitting pull requests.
 
 ## License
-This project is licensed under the [welabs Software Company](www.welabs.tech).
+This project is licensed under the [welabs Software Company](https://www.welabs.tech).
 
 ---
 
