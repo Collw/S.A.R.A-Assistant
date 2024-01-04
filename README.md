@@ -49,7 +49,7 @@ S.A.R.A is a powerful speech-activated assistant application developed in C# for
 Feel free to contribute to the project by opening issues, suggesting improvements, or submitting pull requests.
 
 ## License
-This project is licensed under the [welabs Software Company](https://www.welabs.tech).
+This project is licensed under the [welabs TEAM Software Company](https://www.welabs.tech).
 
 ---
 
@@ -101,5 +101,5 @@ A S.A.R.A é um poderoso aplicativo de assistente controlado por voz desenvolvid
 Sinta-se à vontade para contribuir para o projeto abrindo problemas, sugerindo melhorias ou enviando pull requests.
 
 ## Licença
-Este projeto está licenciado sob a [welabs Software Company](https://www.welabs.tech).
+Este projeto está licenciado sob a [welabs TEAM Software Company](https://www.welabs.tech).
 
