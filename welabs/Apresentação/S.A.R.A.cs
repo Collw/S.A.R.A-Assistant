@@ -2,7 +2,7 @@
 /*                 S.A.R.A - Speech-Activated Responsive Assistant                      
                                                                               
          Sistema desenvolvido por Wenderson Rafael e sua empresa independente: 
-         welabs.                                                               
+         welabs TEAM.                                                               
                                                                               
          Este software é de código aberto, permitindo modificações e           
          atualizações. Solicitamos que os créditos do código-fonte sejam       
@@ -11,13 +11,13 @@
         ----------------------------------------------------------------------------
 
         System developed by Wenderson Rafael and his independent company:     
-        welabs.                                                               
+        welabs TEAM.                                                               
                                                                              
         This software is open source, allowing modifications and updates. We  
         kindly request that the source code credits be kept in the name of     
         the original creator. 
 
-          Copyright © 2023-2024 welabs Softwares Co. Todos os direitos reservados.
+          Copyright © 2023-2024 welabs TEAM Softwares Co. Todos os direitos reservados.
           Site: https://welabs.tech or https://welabsteam.com
           Repository: https://github.com/WendersonRafael/Projeto-S.A.R.A/
 
